@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center><h2>📚 STACKS</h2></div>
+<div align=center><h3>Skills</h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
